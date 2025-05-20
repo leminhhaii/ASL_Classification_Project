@@ -1,0 +1,2 @@
+To test the model in real time, run code from root: python "model using/model_use_video_camera.py"
+To test prediction for image, run code from root: python "model using/model_use_picture.py" path\to\your_image.jpg
